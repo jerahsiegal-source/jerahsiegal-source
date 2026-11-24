@@ -11,7 +11,7 @@ Currently:
 Public projects:
 
 - [ai-implementation-skills](https://github.com/jerahsiegal-source/ai-implementation-skills): Claude Code and Codex skills I use in client work.
-- [murmur](https://github.com/jerahsiegal-source/murmur): local-first dictation and meeting notes for Windows.
+- [Yappr](https://github.com/jerahsiegal-source/yappr): local-first dictation, read-aloud and meeting notes for Windows.
 
 Before this I founded BioDome, an investor-backed AgTech company.
 
