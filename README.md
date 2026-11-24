@@ -3,7 +3,7 @@
 I build AI agents and automations that take real work off people's plates: research, outreach, reporting and day-to-day operations. I use AI to cut the time a process takes or raise the quality of what comes out, preferably both.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerah%20Siegal-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerah-siegal-ai-tech/)
-![Location](https://img.shields.io/badge/Moorestown%2C%20NJ-remote%20%7C%20hybrid-555)
+![Location](https://img.shields.io/badge/Philadelphia%20area-remote%20%7C%20hybrid-555)
 
 **Right now**
 - 🏗️ **Founder, Market Fit AI.** A 7-agent platform that automates customer discovery and market validation. It cut a research cycle from about 6 weeks to about 90 minutes and has validated 18+ startups.
